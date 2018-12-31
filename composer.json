@@ -1,0 +1,17 @@
+{
+    "name": "venom/venom",
+    "description": "Venom is a modern WordPress starter theme.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William James McIntyre",
+            "email": "williamjames.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Venom\\": "app/"}
+    }
+}
